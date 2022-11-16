@@ -16,9 +16,6 @@ a.rickroll{
     text-align: center;
     display:block;
     border-radius: 10px;
-    margin-right: 1100px;
-    margin-left: 1100px;
-
 }
 a.insta{
     color: aliceblue;
@@ -27,8 +24,6 @@ a.insta{
     text-align: center;
     display:block;
     border-radius: 10px;
-    margin-right: 1100px;
-    margin-left: 1100px;
 }
 a {
     position: relative;
